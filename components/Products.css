@@ -1,0 +1,16 @@
+/* tablets */
+@media screen and (max-width: 767px){
+    .heading{
+        min-width: 100%;
+    }
+    .head{
+        position: relative;
+        right: 20px;
+    }
+    .paragraph{
+        position: relative;
+        left: 20px;
+        padding: 6px 6px;
+    }
+    
+}

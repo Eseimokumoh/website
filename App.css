@@ -1,0 +1,19 @@
+.Discount-span {
+    background-color: red;
+    color: #fff;
+    padding: 10px;
+    
+}
+
+.banner {
+    margin-top: 20px 10px;
+    color: #fff;
+    background-color: red;
+    padding: 10px;
+}
+
+.Discounts {
+    position: absolute;
+    top: 120px;
+    left: 500px;
+}

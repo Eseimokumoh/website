@@ -1,0 +1,19 @@
+.footer{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    
+}
+
+/* tablets */
+@media screen and (max-width: 767px){
+    .footer{
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 7px; 
+        padding: 20px;   
+        margin: 20px 20px;  
+    }
+    .profile{
+        margin-top: 20px;
+    }
+}

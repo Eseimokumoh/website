@@ -5,13 +5,13 @@ import { getStorage } from "firebase/storage";
 
 
 const firebaseConfig = {
-  apiKey: "AIzaSyD-SoUoc00OeZRBIs4bY6PPUEX7nIM2QZQ",
-  authDomain: "samba-motors.firebaseapp.com",
-  projectId: "samba-motors",
-  storageBucket: "samba-motors.appspot.com",
-  messagingSenderId: "443843855392",
-  appId: "1:443843855392:web:1c1eec331fda8df045e845",
-  measurementId: "G-5ZWVKN239R"
+  apiKey: "",
+  authDomain: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: "",
+  measurementId: ""
 };
 
 const app = initializeApp(firebaseConfig);
